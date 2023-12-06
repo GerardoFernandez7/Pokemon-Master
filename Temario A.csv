@@ -1,0 +1,10 @@
+Numero,Nombre,Tipo 1,Tipo 2,HP,Ataque,Defensa,Velocidad,Generacion
+1,Bulbasaur,Grass,Poison,45,49,49,45,Primera
+4,Charmander,Fire,,39,52,43,65,Primera
+7,Squirtle,Water,,44,48,65,43,Primera
+152,Chikorita,Grass,Poison,45,49,65,45,Segunda
+155,Cyndaquil,Fire,,39,52,43,65,Segunda
+158,Totodile,Water,,50,65,64,43,Segunda
+170,Chinchou,Water,Electric,75,38,38,67,Segunda
+500,Emboar,Fire,Fighting,110,123,65,65,Primera
+527,Woobat,Psychic,Flying,55,45,43,72,Quinta
